@@ -15,7 +15,7 @@ The dashboard helps users explore sales performance across regions, product cate
 - Excel slicers and date timelines
 - SQL for sales analysis
 ## Dashboard Preview
-![Sales Analytics Dashboard](Dashboard-Screenshots/sales_analytics_dashboard.png)
+Sales_analytics-dashboard.png
 ## Key Performance Indicators
 The dashboard displays:
 - Total Revenue
