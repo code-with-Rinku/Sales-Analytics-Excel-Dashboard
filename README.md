@@ -45,8 +45,6 @@ Gaming Laptop is the top product by revenue ($666K).
 Online sales generate the highest revenue among sales channels ($1.11M).
 Returning customers account for 68% of the customer distribution.
 West region generates the lowest revenue ($587K) among the five regions.
-
-For example, identify the highest-revenue region, leading product category, or top product.
 ## How to Use
 1. Download or clone this repository.
 2. Open the Excel workbook in Microsoft Excel.
